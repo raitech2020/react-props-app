@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+React App to show how to use props and props.children.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
